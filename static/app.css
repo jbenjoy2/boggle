@@ -1,0 +1,28 @@
+html body {
+	background: rgb(63, 94, 251);
+	background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+.hidden {
+	display: none;
+}
+
+#restart.hidden {
+	display: none;
+}
+
+h1 {
+	font-family: 'Gloria Hallelujah', cursive;
+	color: orange;
+	text-shadow: #fffca8 2px 2px 0px, #9c9c9c 4px 4px 0px;
+}
+
+td.letter {
+	border-radius: 50%;
+	border: 2px solid white;
+	font-weight: bold;
+}
+
+.btn {
+	font-family: 'Gloria Hallelujah', cursive;
+}
